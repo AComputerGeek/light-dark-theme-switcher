@@ -1,3 +1,6 @@
+// @author: Amir Armion
+// @version: V.01
+
 import { createContext, useContext, useState } from 'react';
 
 const ThemeContext = createContext(undefined);
